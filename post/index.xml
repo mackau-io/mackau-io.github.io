@@ -2,25 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mackau Blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://mackau-io.github.io/post/</link>
     <description>Recent Posts in Posts on Mackau Blog</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 11:17:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 16:45:03 -0500</lastBuildDate>
+    <atom:link href="https://mackau-io.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to AI/ML</title>
+      <link>https://mackau-io.github.io/post/intro-to-ai/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mackau-io.github.io/post/intro-to-ai/</guid>
+      <description></description>
+      
+    </item>
     <item>
       <title>Test Post</title>
-      <link>http://localhost:1313/post/testpost/</link>
+      <link>https://mackau-io.github.io/post/testpost/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/testpost/</guid>
+      <guid>https://mackau-io.github.io/post/testpost/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Blog Post 1</title>
-      <link>http://localhost:1313/post/blogpost1/</link>
+      <link>https://mackau-io.github.io/post/blogpost1/</link>
       <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blogpost1/</guid>
+      <guid>https://mackau-io.github.io/post/blogpost1/</guid>
       <description></description>
       
     </item>
