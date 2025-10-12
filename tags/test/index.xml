@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Mackau Blog</title>
-    <link>http://localhost:1313/tags/hugo/</link>
-    <description>Recent Posts in Hugo on Mackau Blog</description>
+    <title>Test on Mackau Blog</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent Posts in Test on Mackau Blog</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Oct 2025 11:04:54 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
       <link>http://localhost:1313/post/testpost/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/testpost/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Blog Post 1</title>
-      <link>http://localhost:1313/post/blogpost1/</link>
-      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blogpost1/</guid>
       <description></description>
       
     </item>

@@ -1,27 +1,24 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <!-- head.html --><!-- meta.html -->
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> | Mackau Blog</title>
+<title>Blog | Mackau Blog</title>
 <meta name="author" content="">
-<meta name="description" content="hdfjklaghdklsajfhnkdjs Coming soon…
-adsdasfasdgrf asdfgadsfgasdfgv
-" >
-<link rel="canonical" href="https://mackau-io.github.io/poststs/myposts/">
+<link rel="canonical" href="http://localhost:1313/tags/blog/">
 
 
-<!-- js.html -->
-
-<script src="https://mackau-io.github.io/js/hugo-brewm.min.js"
-            integrity="sha384-HcfLGLdNQhK4GEH2Xg7S4mVZZbO80vZP//MO5hGHmLLsA4oAiwedtUkF5kIHTzMB" crossorigin="anonymous"
-            defer></script><!-- css.html -->
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/blog/index.xml" title="Mackau Blog" />
+    <!-- js.html -->
 
 
-        <link rel="stylesheet" href="https://mackau-io.github.io/css/hugo-brewm.min.css" integrity="sha256-&#43;Gwe2HJcpMUbmtv0iwHab9vevwaikNxLoeKD0uPhHSw=" crossorigin="anonymous">
+    <script src="http://localhost:1313/js/hugo-brewm.min.js" defer></script><!-- css.html -->
+
+
+    <link rel="stylesheet" href="http://localhost:1313/css/hugo-brewm.min.css">
 
 
 
@@ -31,7 +28,7 @@ adsdasfasdgrf asdfgadsfgasdfgv
         body {max-width: 786px; margin: auto; padding: 2rem;}
         img {max-width: 86vw;}
     </style>
-    
+    <!-- list.html [head] -->
 </head>
 <body>
     <!-- header.html -->
@@ -41,7 +38,7 @@ adsdasfasdgrf asdfgadsfgasdfgv
     </div>
     
     <nav aria-label="Bypass">
-        <a id="to-content" href="#content" aria-label="Skip to Main Content">
+        <a id="to-content" href="#list-posts" aria-label="Skip to Main Content">
             <span>Skip to Main Content</span>
             <kbd class="key" aria-hidden="true">c</kbd>
             <span class="screening" aria-hidden="true"></span>
@@ -66,22 +63,17 @@ adsdasfasdgrf asdfgadsfgasdfgv
 </header>
     
     <!-- [main] baseof.html -->
-    <main id="page"class="page"
-        >
+    <main id="term">
         <!-- main/header.html -->
         <header class="pagewidth">
-                    <menu class="srm"><button id="print-button" class="hide" onclick="window.print()" aria-label="Print">
-        <span class="t srt" role="tooltip">Print</span>
-    </button>
-    <a id="navigatorShare" href="#share" role="button" aria-label="Share">
-        <span class="t srt" role="tooltip">Share</span>
-    </a>
-    <button id="copyPermalink" class="hide" onclick="navigator.clipboard.writeText(window.location.href)" aria-label="Copy URL">
-        <span id="copy" class="t srt" role="tooltip">Copy URL</span>
-        <span id="isCopying" style="display: none;">Copying...</span>
-        <span id="copyText" style="display: none;">Copy URL</span>
-    </button>
+                    <menu class="srm">
+                                <a id="rss-button" href="http://localhost:1313/tags/blog/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
+                                    <span class="t srt" role="tooltip">Follow with RSS</span>
+                                </a>
                     </menu>
+                    <button id="back" class="hide" type="button" onclick="history.back();" aria-label="Go Back">
+        <span class="t srt" role="tooltip">Go Back</span>
+    </button>
             <!-- nav.html -->
 <details class="presentation" aria-expanded="true" id="has-breadcrumb" open>
     <summary id="breadcrumb" tabindex="-1">
@@ -91,11 +83,11 @@ adsdasfasdgrf asdfgadsfgasdfgv
             <ul role="presentation" class="breadcrumb ">
                     <!-- breadcrumb.html -->
         <li>
-            <a href="https://mackau-io.github.io/poststs/" aria-current="true">Poststs
+            <a href="http://localhost:1313/tags/" aria-current="true">Tags
             </a>
         </li>
     <li>
-        <a href="" aria-current="page" tabindex="-1">
+        <a href="" aria-current="page" tabindex="-1">Blog
         </a>
     </li>
             </ul>
@@ -106,30 +98,54 @@ adsdasfasdgrf asdfgadsfgasdfgv
             
         </div>
         
-    <article id="main-article" class="pagewidth sf"
-        role="document" aria-labelledby="title"
-            data-pagefind-ignore="all">
-        <header aria-labelledby="title">
-            
-            <!-- title.html -->
-        <h1 id="title"
-            data-bionRead-safe
-            ></h1>
-        </header>
-        <!-- audio.html -->
-        <section aria-labelledby="title" id="content" data-bionRead-safe>
-                <p>hdfjklaghdklsajfhnkdjs
-Coming soon&hellip;</p>
-<p>adsdasfasdgrf
-asdfgadsfgasdfgv</p>
-
-        </section>
-    </article>
-    <hr class="hide" style="margin: 1in 0;">
-    <div id="contentinfo" class="pagewidth" role="contentinfo" data-pagefind-ignore="all">
-    </div>
-    
         
+            <section id="list-posts" class="pagewidth"  aria-labelledby="list-post-heading">
+                <header id="tag" class="section-title">
+                    <strong id="list-post-heading">Posts on: <span class="tag">Blog</span>
+                    </strong>
+                </header>
+                    <div role="feed" aria-busy="false" aria-labelledby="list-post-heading">
+                        <article class="feed-item"
+        aria-posinset="1"
+        aria-setsize="1"
+        aria-labelledby="title-1"
+        aria-describedby="desc-1">
+        <hgroup>
+            <div>
+                <span>
+                </span>
+                
+                <!-- timestamp.html-->
+    <div >
+        <time class="doc-publish-date" datetime="2025-10-11T00:00:00&#43;00:00" data-time-label="Published on">October 11, 2025</time>
+    </div>
+            </div>
+            <a href="/post/blogpost1/" class="sr0" tabindex="-1" aria-describedby="desc-1">
+                <h1 id="title-1">Blog Post 1</h1>
+            </a>
+        </hgroup>
+        <a class="sri" href="/post/blogpost1/" aria-label="Blog Post 1" aria-describedby="desc-1"></a>
+        
+        <section >
+            <div class="par" id="desc-1">hdfjklaghdklsajfhnkdjs Coming soon&hellip;
+adsdasfasdgrf asdfgadsfgasdfgv
+
+            </div>
+        </section>
+        <footer>
+            <span class="readingTime">1 min read
+            </span>
+            
+                    <!-- terms.html -->
+    <ul class="rounded invert" role="presentation">
+            <li><a href="/tags/hugo/" tabindex="-1">Hugo</a></li>
+            <li><a href="/tags/blog/" tabindex="-1">Blog</a></li>
+    </ul>
+        </footer>
+    </article>
+                    </div>
+                    
+            </section>
         <!-- main/footer.html -->
     </main>
     <!-- footer.html -->
@@ -186,8 +202,6 @@ asdfgadsfgasdfgv</p>
     </nav>
 </footer>
     
-    <!-- [post] single.html -->
-    <div id="bionReadSnapshot" hidden></div>
     <!-- [background] baseof.html -->
     <div id="background-body" role="presentation" aria-hidden="true"></div>
 </html>

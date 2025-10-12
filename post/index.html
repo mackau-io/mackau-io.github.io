@@ -98,6 +98,44 @@
                 </div>
         </div>
         
+                <aside id="list-tags">
+                    <header class="section-title">
+                        <strong>Tags</strong>
+                    </header>
+                    <nav aria-label="Tags">
+                        <!-- taxonomies.html -->
+        <ul class="rounded has-hash" role="presentation">
+            
+                    <li >
+                        <a href="http://localhost:1313/tags/hugo/"
+                            aria-label="Tag: Hugo"
+                            aria-description="2 Posts"
+                            data-post-counter="2"
+                            >
+                            <span>Hugo</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="http://localhost:1313/tags/blog/"
+                            aria-label="Tag: Blog"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Blog</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="http://localhost:1313/tags/test/"
+                            aria-label="Tag: Test"
+                            aria-description="1 Post"
+                            data-post-counter="1"
+                            >
+                            <span>Test</span>
+                        </a>
+                    </li>
+        </ul>
+                    </nav>
+                </aside>
         
             <section id="list-posts" class="pagewidth"  aria-labelledby="list-post-heading">
                 <header  class="section-title">
@@ -107,7 +145,7 @@
                     <div role="feed" aria-busy="false" aria-labelledby="list-post-heading">
                         <article class="feed-item"
         aria-posinset="1"
-        aria-setsize="1"
+        aria-setsize="2"
         aria-labelledby="title-1"
         aria-describedby="desc-1">
         <hgroup>
@@ -117,17 +155,17 @@
                 
                 <!-- timestamp.html-->
     <div >
-        <time class="doc-publish-date" datetime="2025-10-11T13:14:59-05:00" data-time-label="Published on">October 11, 2025</time>
+        <time class="doc-publish-date" datetime="2025-10-12T00:00:00&#43;00:00" data-time-label="Published on">October 12, 2025</time>
     </div>
             </div>
-            <a href="/post/mypost/" class="sr0" tabindex="-1" aria-describedby="desc-1">
-                <h1 id="title-1">Mypost</h1>
+            <a href="/post/testpost/" class="sr0" tabindex="-1" aria-describedby="desc-1">
+                <h1 id="title-1">Test Post</h1>
             </a>
         </hgroup>
-        <a class="sri" href="/post/mypost/" aria-label="Mypost" aria-describedby="desc-1"></a>
+        <a class="sri" href="/post/testpost/" aria-label="Test Post" aria-describedby="desc-1"></a>
         
         <section >
-            <div class="par" id="desc-1">Content Pending&hellip;
+            <div class="par" id="desc-1">This is a test. Without the properties. Does this work?
 
             </div>
         </section>
@@ -135,7 +173,49 @@
             <span class="readingTime">1 min read
             </span>
             
-                <div class="baselineskip" role="presentation"></div>
+                    <!-- terms.html -->
+    <ul class="rounded invert" role="presentation">
+            <li><a href="/tags/hugo/" tabindex="-1">Hugo</a></li>
+            <li><a href="/tags/test/" tabindex="-1">Test</a></li>
+    </ul>
+        </footer>
+    </article><hr class="ldots" role="presentation" aria-hidden="true">
+                        <article class="feed-item"
+        aria-posinset="2"
+        aria-setsize="2"
+        aria-labelledby="title-2"
+        aria-describedby="desc-2">
+        <hgroup>
+            <div>
+                <span>
+                </span>
+                
+                <!-- timestamp.html-->
+    <div >
+        <time class="doc-publish-date" datetime="2025-10-11T00:00:00&#43;00:00" data-time-label="Published on">October 11, 2025</time>
+    </div>
+            </div>
+            <a href="/post/blogpost1/" class="sr0" tabindex="-1" aria-describedby="desc-2">
+                <h1 id="title-2">Blog Post 1</h1>
+            </a>
+        </hgroup>
+        <a class="sri" href="/post/blogpost1/" aria-label="Blog Post 1" aria-describedby="desc-2"></a>
+        
+        <section >
+            <div class="par" id="desc-2">hdfjklaghdklsajfhnkdjs Coming soon&hellip;
+adsdasfasdgrf asdfgadsfgasdfgv
+
+            </div>
+        </section>
+        <footer>
+            <span class="readingTime">1 min read
+            </span>
+            
+                    <!-- terms.html -->
+    <ul class="rounded invert" role="presentation">
+            <li><a href="/tags/hugo/" tabindex="-1">Hugo</a></li>
+            <li><a href="/tags/blog/" tabindex="-1">Blog</a></li>
+    </ul>
         </footer>
     </article>
                     </div>

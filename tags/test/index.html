@@ -6,12 +6,12 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tags | Mackau Blog</title>
+<title>Test | Mackau Blog</title>
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/tags/">
+<link rel="canonical" href="http://localhost:1313/tags/test/">
 
 
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/index.xml" title="Mackau Blog" />
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/test/index.xml" title="Mackau Blog" />
     <!-- js.html -->
 
 
@@ -63,9 +63,14 @@
 </header>
     
     <!-- [main] baseof.html -->
-    <main id="taxonomy">
+    <main id="term">
         <!-- main/header.html -->
         <header class="pagewidth">
+                    <menu class="srm">
+                                <a id="rss-button" href="http://localhost:1313/tags/test/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
+                                    <span class="t srt" role="tooltip">Follow with RSS</span>
+                                </a>
+                    </menu>
                     <button id="back" class="hide" type="button" onclick="history.back();" aria-label="Go Back">
         <span class="t srt" role="tooltip">Go Back</span>
     </button>
@@ -77,8 +82,12 @@
         <nav aria-labelledby="breadcrumb">
             <ul role="presentation" class="breadcrumb ">
                     <!-- breadcrumb.html -->
+        <li>
+            <a href="http://localhost:1313/tags/" aria-current="true">Tags
+            </a>
+        </li>
     <li>
-        <a href="" aria-current="page" tabindex="-1">Tags
+        <a href="" aria-current="page" tabindex="-1">Test
         </a>
     </li>
             </ul>
@@ -89,48 +98,52 @@
             
         </div>
         
-                <aside id="list-tags">
-                    <header class="section-title">
-                        <strong>Tags</strong>
-                    </header>
-                    <nav aria-label="Tags">
-                        <!-- taxonomies.html -->
-        <ul class="rounded has-hash" role="presentation">
-            
-                    <li >
-                        <a href="http://localhost:1313/tags/hugo/"
-                            aria-label="Tag: Hugo"
-                            aria-description="2 Posts"
-                            data-post-counter="2"
-                            >
-                            <span>Hugo</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="http://localhost:1313/tags/blog/"
-                            aria-label="Tag: Blog"
-                            aria-description="1 Post"
-                            data-post-counter="1"
-                            >
-                            <span>Blog</span>
-                        </a>
-                    </li>
-                    <li >
-                        <a href="http://localhost:1313/tags/test/"
-                            aria-label="Tag: Test"
-                            aria-description="1 Post"
-                            data-post-counter="1"
-                            >
-                            <span>Test</span>
-                        </a>
-                    </li>
-        </ul>
-                    </nav>
-                </aside>
         
-            <section class="pagewidth">
+            <section id="list-posts" class="pagewidth"  aria-labelledby="list-post-heading">
+                <header id="tag" class="section-title">
+                    <strong id="list-post-heading">Posts on: <span class="tag">Test</span>
+                    </strong>
+                </header>
+                    <div role="feed" aria-busy="false" aria-labelledby="list-post-heading">
+                        <article class="feed-item"
+        aria-posinset="1"
+        aria-setsize="1"
+        aria-labelledby="title-1"
+        aria-describedby="desc-1">
+        <hgroup>
+            <div>
+                <span>
+                </span>
+                
+                <!-- timestamp.html-->
+    <div >
+        <time class="doc-publish-date" datetime="2025-10-12T00:00:00&#43;00:00" data-time-label="Published on">October 12, 2025</time>
+    </div>
+            </div>
+            <a href="/post/testpost/" class="sr0" tabindex="-1" aria-describedby="desc-1">
+                <h1 id="title-1">Test Post</h1>
+            </a>
+        </hgroup>
+        <a class="sri" href="/post/testpost/" aria-label="Test Post" aria-describedby="desc-1"></a>
+        
+        <section >
+            <div class="par" id="desc-1">This is a test. Without the properties. Does this work?
+
+            </div>
+        </section>
+        <footer>
+            <span class="readingTime">1 min read
+            </span>
+            
+                    <!-- terms.html -->
+    <ul class="rounded invert" role="presentation">
+            <li><a href="/tags/hugo/" tabindex="-1">Hugo</a></li>
+            <li><a href="/tags/test/" tabindex="-1">Test</a></li>
+    </ul>
+        </footer>
+    </article>
+                    </div>
                     
-            <!-- listing.html -->
             </section>
         <!-- main/footer.html -->
     </main>
