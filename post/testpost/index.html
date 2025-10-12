@@ -65,7 +65,7 @@
 </header>
     
     <!-- [main] baseof.html -->
-    <main id="page"class="articles"
+    <main id="page"class="post"
         >
         <!-- main/header.html -->
         <header class="pagewidth">
@@ -105,24 +105,45 @@
             
         </div>
         
-    <article id="main-article" class="pagewidth sf"
+    <article id="main-article" class="pagewidth rm"
         role="document" aria-labelledby="title"
-            data-pagefind-ignore="all">
+            data-pagefind-body>
         <header aria-labelledby="title">
             
             <!-- title.html -->
         <h1 id="title"
+                data-pagefind-meta="title"
             data-bionRead-safe
             >Test Post</h1>
+            <div id="doc-author" class="textsw author">
+            </div>
+            <!-- timestamp.html-->
+    <div >
+        <time class="doc-publish-date" datetime="2025-10-12T00:00:00&#43;00:00" data-time-label="Published on">October 12, 2025</time>
+    </div>
         </header>
         <!-- audio.html -->
         <section aria-labelledby="title" id="content" data-bionRead-safe>
                 <p>This is a test. Without the properties. Does this work?</p>
 
         </section>
+            <footer>
+                
+    <nav id="keywords" aria-label="Tags">
+        <span>Tags:&nbsp;</span>
+        
+        <!-- terms.html -->
+    <ul class="delimiter" role="presentation">
+            <li><a href="/tags/hugo/" >Hugo</a></li>
+            <li><a href="/tags/test/" >Test</a></li>
+    </ul>
+    </nav>
+            </footer>
     </article>
     <hr class="hide" style="margin: 1in 0;">
     <div id="contentinfo" class="pagewidth" role="contentinfo" data-pagefind-ignore="all">
+                <!-- history.html -->
+            
     </div>
     
         
