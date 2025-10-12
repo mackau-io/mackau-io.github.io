@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mackau Blog</title>
-    <link>https://mackau-io.github.io/tags/</link>
-    <description>Recent Posts in Tags on Mackau Blog</description>
+    <title>Poststs on Mackau Blog</title>
+    <link>https://mackau-io.github.io/poststs/</link>
+    <description>Recent Posts in Poststs on Mackau Blog</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Oct 2025 21:12:25 -0500</lastBuildDate>
-    <atom:link href="https://mackau-io.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mackau-io.github.io/poststs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

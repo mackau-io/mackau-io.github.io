@@ -2,23 +2,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mackau-io.github.io/</loc>
     <lastmod>2025-10-11T13:14:59-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/mypost/</loc>
+    <loc>https://mackau-io.github.io/posts/mypost/</loc>
     <lastmod>2025-10-11T13:14:59-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://mackau-io.github.io/posts/</loc>
     <lastmod>2025-10-11T13:14:59-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mackau-io.github.io/posts/posts/myposts/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mackau-io.github.io/poststs/myposts/</loc>
+    
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/categories/</loc>
+    
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/poststs/</loc>
+    
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/tags/</loc>
     
     </url>
 </urlset>
