@@ -2,67 +2,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/ml/</loc>
-    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-10-12T11:16:32-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/post/intro-to-ai/</loc>
-    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mackau-io.github.io/</loc>
     <lastmod>2025-10-22T11:35:08-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://mackau-io.github.io/tags/ai/ml/</loc>
     <lastmod>2025-10-12T16:01:55-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mackau-io.github.io/categories/</loc>
     <lastmod>2025-10-12T16:01:55-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2025-10-12T11:16:32-05:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/cybersecurity/</loc>
+    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/testpost/</loc>
-    <lastmod>2025-10-12T11:16:32-05:00</lastmod>
+    <loc>https://mackau-io.github.io/post/intro-to-ai/</loc>
+    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-10-12T11:16:32-05:00</lastmod>
+    <loc>https://mackau-io.github.io/post/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/blogpost1/</loc>
-    <lastmod>2025-10-12T11:16:32-05:00</lastmod>
+    <loc>https://mackau-io.github.io/stage/seedling/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mackau-io.github.io/stage/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/tags/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/tags/test/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/post/testpostoct22/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/categories/writeups/</loc>
+    <lastmod>2025-10-12T16:01:55-05:00</lastmod>
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/about/</loc>
     <lastmod>2025-10-21T23:33:47-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://mackau-io.github.io/author/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mackau-io.github.io/stage/budding/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/about/resume/</loc>
+    <loc>https://mackau-io.github.io/stage/evergreen/</loc>
+    
+    </url>
+  <url>
+    <loc>https://mackau-io.github.io/about/resume/</loc>
     <lastmod>2025-10-22T05:44:46-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/slide/</loc>
+    <loc>https://mackau-io.github.io/slide/</loc>
     <lastmod>2025-10-22T11:35:08-05:00</lastmod>
     </url>
 </urlset>
