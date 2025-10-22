@@ -6,13 +6,29 @@
     <description>Recent Posts in Cybersecurity on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Oct 2025 15:33:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 18:17:02 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Outage</title>
       <link>http://localhost:1313/post/news1/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/news1/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Configuring Firewall Rules</title>
+      <link>http://localhost:1313/post/tools1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/tools1/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Graduate Capstone Project</title>
+      <link>http://localhost:1313/post/graduate-capstone-project/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/graduate-capstone-project/</guid>
       <description></description>
       
     </item>
@@ -25,18 +41,26 @@
       
     </item>
     <item>
-      <title>Reflection 1</title>
-      <link>http://localhost:1313/post/reflection1/</link>
+      <title>My First PC Build</title>
+      <link>http://localhost:1313/post/pcbuild/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/reflection1/</guid>
+      <guid>http://localhost:1313/post/pcbuild/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Reflections 1</title>
+      <link>http://localhost:1313/post/reflections1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/reflections1/</guid>
       <description></description>
       
     </item>
     <item>
       <title>TryHackMe 1</title>
-      <link>http://localhost:1313/post/writeup1/</link>
+      <link>http://localhost:1313/post/tryhackme1/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/writeup1/</guid>
+      <guid>http://localhost:1313/post/tryhackme1/</guid>
       <description></description>
       
     </item>

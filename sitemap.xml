@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/ai/ml/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/post/news1/</loc>
@@ -11,15 +11,27 @@
     </url>
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/post/tools1/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/ctf/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/explainers/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <loc>http://localhost:1313/post/graduate-capstone-project/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/homelab/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/tags/incidents/</loc>
@@ -27,7 +39,11 @@
     </url>
   <url>
     <loc>http://localhost:1313/post/intro-to-ai/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/post/pcbuild/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/categories/news/</loc>
@@ -35,14 +51,10 @@
     </url>
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/post/reflection1/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -50,32 +62,32 @@
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
+    <loc>http://localhost:1313/post/reflections1/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    </url>
+  <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/post/testpostoct22/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <loc>http://localhost:1313/tags/tools/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/tags/tryhackme/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/writeup1/</loc>
+    <loc>http://localhost:1313/post/tryhackme1/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/writeups/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/writeups/</loc>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
