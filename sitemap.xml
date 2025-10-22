@@ -2,51 +2,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43735/tags/ai/ml/</loc>
+    <loc>http://localhost:1313/tags/ai/ml/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/tags/cybersecurity/</loc>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/post/intro-to-ai/</loc>
+    <loc>http://localhost:1313/post/intro-to-ai/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/post/testpost/</loc>
+    <loc>http://localhost:1313/post/testpost/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/tags/blog/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2025-10-11T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/post/blogpost1/</loc>
+    <loc>http://localhost:1313/post/blogpost1/</loc>
     <lastmod>2025-10-11T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:43735/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     
     </url>
 </urlset>
