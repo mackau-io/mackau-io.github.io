@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI/ML on Mackau Blog</title>
-    <link>https://mackau-io.github.io/tags/ai/ml/</link>
-    <description>Recent Posts in AI/ML on Mackau Blog</description>
+    <title>AI/ML on Kai Mackall&#39;s Blog</title>
+    <link>http://localhost:43735/tags/ai/ml/</link>
+    <description>Recent Posts in AI/ML on Kai Mackall&#39;s Blog</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 16:50:43 -0500</lastBuildDate>
-    <atom:link href="https://mackau-io.github.io/tags/ai/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 21:47:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:43735/tags/ai/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to AI/ML</title>
-      <link>https://mackau-io.github.io/post/intro-to-ai/</link>
+      <link>http://localhost:43735/post/intro-to-ai/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mackau-io.github.io/post/intro-to-ai/</guid>
+      <guid>http://localhost:43735/post/intro-to-ai/</guid>
       <description></description>
       
     </item>
