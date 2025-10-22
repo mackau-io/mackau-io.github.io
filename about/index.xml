@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Kai Mackall&#39;s Blog</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://mackau-io.github.io/about/</link>
     <description>Recent Posts in About on Kai Mackall&#39;s Blog</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Oct 2025 23:55:58 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Oct 2025 11:34:01 -0500</lastBuildDate>
+    <atom:link href="https://mackau-io.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
