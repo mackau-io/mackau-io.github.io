@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stage on Kai Mackall</title>
-    <link>http://localhost:1313/stage/</link>
+    <link>https://mackau-io.github.io/stage/</link>
     <description>Recent Posts in Stage on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Oct 2025 22:25:49 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/stage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Oct 2025 22:28:02 -0500</lastBuildDate>
+    <atom:link href="https://mackau-io.github.io/stage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>budding</title>
-      <link>http://localhost:1313/stage/budding/</link>
+      <link>https://mackau-io.github.io/stage/budding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/stage/budding/</guid>
+      <guid>https://mackau-io.github.io/stage/budding/</guid>
       <description></description>
       
     </item>
     <item>
       <title>evergreen</title>
-      <link>http://localhost:1313/stage/evergreen/</link>
+      <link>https://mackau-io.github.io/stage/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/stage/evergreen/</guid>
+      <guid>https://mackau-io.github.io/stage/evergreen/</guid>
       <description></description>
       
     </item>
     <item>
       <title>seedling</title>
-      <link>http://localhost:1313/stage/seedling/</link>
+      <link>https://mackau-io.github.io/stage/seedling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/stage/seedling/</guid>
+      <guid>https://mackau-io.github.io/stage/seedling/</guid>
       <description></description>
       
     </item>
