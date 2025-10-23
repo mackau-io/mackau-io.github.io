@@ -2,123 +2,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/ml/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/ai/ml/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/news1/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/post/news1/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/categories/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/tools1/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/post/tools1/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/ctf/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/cybersecurity/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/post/graduate-capstone-project/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/graduate-capstone-project/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/homelab/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/homelab/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/incidents/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/incidents/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/post/intro-to-ai/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/intro-to-ai/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/post/pcbuild/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/pcbuild/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/categories/news/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/news/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/post/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/categories/projects/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/categories/reflections/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/tags/tools/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/reflections1/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+    <loc>https://mackau-io.github.io/categories/writeups/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
+    <loc>https://mackau-io.github.io/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/tags/tools/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/tags/tryhackme/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/post/tryhackme1/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/categories/writeups/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-22T15:43:22-05:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mackau-io.github.io/about/</loc>
     <lastmod>2025-10-21T23:33:47-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://mackau-io.github.io/author/</loc>
     
     </url>
   <url>
-    <loc>http://localhost:1313/stage/budding/</loc>
+    <loc>https://mackau-io.github.io/stage/budding/</loc>
     <lastmod>2025-10-22T14:39:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/stage/evergreen/</loc>
+    <loc>https://mackau-io.github.io/stage/evergreen/</loc>
     <lastmod>2025-10-22T14:39:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/about/resume/</loc>
-    <lastmod>2025-10-22T05:44:46-05:00</lastmod>
+    <loc>https://mackau-io.github.io/about/resume/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/stage/seedling/</loc>
+    <loc>https://mackau-io.github.io/stage/seedling/</loc>
     <lastmod>2025-10-22T14:39:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/slide/</loc>
-    <lastmod>2025-10-22T14:39:44-05:00</lastmod>
+    <loc>https://mackau-io.github.io/slide/</loc>
+    <lastmod>2025-10-22T18:29:44-05:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/stage/</loc>
+    <loc>https://mackau-io.github.io/stage/</loc>
     <lastmod>2025-10-22T14:39:44-05:00</lastmod>
     </url>
 </urlset>
