@@ -1,0 +1,43 @@
+
+{
+    "nodes": [{
+                "id": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                "title": "My First PC Build",
+                "permalink": "http://localhost:1313/post/pcbuild/",
+                "type": "post"
+            },
+                        {
+                            "id": "categories-writeups",
+                            "title": "Writeups",
+                            "permalink": "http://localhost:1313/categories/writeups/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "tags-cybersecurity",
+                            "title": "Cybersecurity",
+                            "permalink": "http://localhost:1313/tags/cybersecurity/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-homelab",
+                            "title": "Homelab",
+                            "permalink": "http://localhost:1313/tags/homelab/",
+                            "type": "tags"
+                        },
+    ],
+    "links": [
+            
+                    {
+                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "target": "tags-homelab",
+                    },
+                    {
+                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "target": "tags-cybersecurity",
+                    },
+    ],
+}
