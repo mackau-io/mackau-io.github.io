@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersecurity on Kai Mackall</title>
-    <link>https://mackau-io.github.io/tags/cybersecurity/</link>
+    <link>https://kaimackall.com/tags/cybersecurity/</link>
     <description>Recent Posts in Cybersecurity on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 16:20:47 -0500</lastBuildDate>
-    <atom:link href="https://mackau-io.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 16:54:59 -0500</lastBuildDate>
+    <atom:link href="https://kaimackall.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First PC Build</title>
-      <link>https://mackau-io.github.io/posts/pcbuild/</link>
+      <link>https://kaimackall.com/posts/pcbuild/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mackau-io.github.io/posts/pcbuild/</guid>
+      <guid>https://kaimackall.com/posts/pcbuild/</guid>
       <description></description>
       
     </item>
