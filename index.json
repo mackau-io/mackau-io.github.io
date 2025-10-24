@@ -1,16 +1,76 @@
 
 {
     "nodes": [{
+                "id": "01e83b5a0a63d5f989c730a73b382bdd",
+                "title": "AWS Outage",
+                "permalink": "http://localhost:1313/post/news1/",
+                "type": "post"
+            },{
+                "id": "67054120c10d6c978322a4d587323172",
+                "title": "Configuring Firewall Rules",
+                "permalink": "http://localhost:1313/post/tools1/",
+                "type": "post"
+            },{
+                "id": "1acbc0a1ba24ab154d53d579a10f7cbe",
+                "title": "Graduate Capstone Project",
+                "permalink": "http://localhost:1313/post/graduate-capstone-project/",
+                "type": "post"
+            },{
+                "id": "3519608a6566226d868b8d187c0fe4ae",
+                "title": "Intro to AI/ML",
+                "permalink": "http://localhost:1313/post/intro-to-ai/",
+                "type": "post"
+            },{
                 "id": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
                 "title": "My First PC Build",
                 "permalink": "http://localhost:1313/post/pcbuild/",
                 "type": "post"
+            },{
+                "id": "aea9116d1e1a2915a72fe531ebc91bb2",
+                "title": "Reflections 1",
+                "permalink": "http://localhost:1313/post/reflections1/",
+                "type": "post"
+            },{
+                "id": "b1b47a7dde9d601619d0553e83838015",
+                "title": "TryHackMe 1",
+                "permalink": "http://localhost:1313/post/tryhackme1/",
+                "type": "post"
             },
+                        {
+                            "id": "categories-news",
+                            "title": "News",
+                            "permalink": "http://localhost:1313/categories/news/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-projects",
+                            "title": "Projects",
+                            "permalink": "http://localhost:1313/categories/projects/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-reflections",
+                            "title": "Reflections",
+                            "permalink": "http://localhost:1313/categories/reflections/",
+                            "type": "categories"
+                        },
                         {
                             "id": "categories-writeups",
                             "title": "Writeups",
                             "permalink": "http://localhost:1313/categories/writeups/",
                             "type": "categories"
+                        },
+                        {
+                            "id": "tags-aiml",
+                            "title": "AI/ML",
+                            "permalink": "http://localhost:1313/tags/ai/ml/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-ctf",
+                            "title": "CTF",
+                            "permalink": "http://localhost:1313/tags/ctf/",
+                            "type": "tags"
                         },
                         {
                             "id": "tags-cybersecurity",
@@ -24,8 +84,74 @@
                             "permalink": "http://localhost:1313/tags/homelab/",
                             "type": "tags"
                         },
+                        {
+                            "id": "tags-incidents",
+                            "title": "Incidents",
+                            "permalink": "http://localhost:1313/tags/incidents/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-tools",
+                            "title": "Tools",
+                            "permalink": "http://localhost:1313/tags/tools/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-tryhackme",
+                            "title": "TryHackMe",
+                            "permalink": "http://localhost:1313/tags/tryhackme/",
+                            "type": "tags"
+                        },
     ],
     "links": [
+            
+                    {
+                        "source": "01e83b5a0a63d5f989c730a73b382bdd",
+                        "target": "categories-news",
+                    },
+                    {
+                        "source": "01e83b5a0a63d5f989c730a73b382bdd",
+                        "target": "tags-incidents",
+                    },
+                    {
+                        "source": "01e83b5a0a63d5f989c730a73b382bdd",
+                        "target": "tags-cybersecurity",
+                    },
+            
+                    {
+                        "source": "67054120c10d6c978322a4d587323172",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "67054120c10d6c978322a4d587323172",
+                        "target": "tags-tools",
+                    },
+                    {
+                        "source": "67054120c10d6c978322a4d587323172",
+                        "target": "tags-cybersecurity",
+                    },
+            
+                    {
+                        "source": "1acbc0a1ba24ab154d53d579a10f7cbe",
+                        "target": "categories-projects",
+                    },
+                    {
+                        "source": "1acbc0a1ba24ab154d53d579a10f7cbe",
+                        "target": "tags-cybersecurity",
+                    },
+            
+                    {
+                        "source": "3519608a6566226d868b8d187c0fe4ae",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "3519608a6566226d868b8d187c0fe4ae",
+                        "target": "tags-aiml",
+                    },
+                    {
+                        "source": "3519608a6566226d868b8d187c0fe4ae",
+                        "target": "tags-cybersecurity",
+                    },
             
                     {
                         "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
@@ -37,6 +163,32 @@
                     },
                     {
                         "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "target": "tags-cybersecurity",
+                    },
+            
+                    {
+                        "source": "aea9116d1e1a2915a72fe531ebc91bb2",
+                        "target": "categories-reflections",
+                    },
+                    {
+                        "source": "aea9116d1e1a2915a72fe531ebc91bb2",
+                        "target": "tags-cybersecurity",
+                    },
+            
+                    {
+                        "source": "b1b47a7dde9d601619d0553e83838015",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "b1b47a7dde9d601619d0553e83838015",
+                        "target": "tags-ctf",
+                    },
+                    {
+                        "source": "b1b47a7dde9d601619d0553e83838015",
+                        "target": "tags-tryhackme",
+                    },
+                    {
+                        "source": "b1b47a7dde9d601619d0553e83838015",
                         "target": "tags-cybersecurity",
                     },
     ],
