@@ -2,17 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writeups on Kai Mackall</title>
-    <link>https://mackau-io.github.io/categories/writeups/</link>
+    <link>http://localhost:1313/categories/writeups/</link>
     <description>Recent Posts in Writeups on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 14:22:03 -0500</lastBuildDate>
-    <atom:link href="https://mackau-io.github.io/categories/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 14:37:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring Firewall Rules</title>
+      <link>http://localhost:1313/posts/tools1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tools1/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Intro to AI/ML</title>
+      <link>http://localhost:1313/posts/intro-to-ai/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/intro-to-ai/</guid>
+      <description></description>
+      
+    </item>
     <item>
       <title>My First PC Build</title>
-      <link>https://mackau-io.github.io/posts/pcbuild/</link>
+      <link>http://localhost:1313/posts/pcbuild/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mackau-io.github.io/posts/pcbuild/</guid>
+      <guid>http://localhost:1313/posts/pcbuild/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>TryHackMe 1</title>
+      <link>http://localhost:1313/posts/tryhackme1/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tryhackme1/</guid>
       <description></description>
       
     </item>
