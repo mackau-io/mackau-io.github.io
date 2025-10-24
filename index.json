@@ -1,9 +1,9 @@
 
 {
     "nodes": [{
-                "id": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                "id": "b6a24c4ffe3b4df100e2c61f28a15b7c",
                 "title": "My First PC Build",
-                "permalink": "https://mackau-io.github.io/post/pcbuild/",
+                "permalink": "https://mackau-io.github.io/posts/pcbuild/",
                 "type": "post"
             },
                         {
@@ -28,15 +28,15 @@
     "links": [
             
                     {
-                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
                         "target": "categories-writeups",
                     },
                     {
-                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
                         "target": "tags-homelab",
                     },
                     {
-                        "source": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
+                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
                         "target": "tags-cybersecurity",
                     },
     ],

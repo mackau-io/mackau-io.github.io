@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeups on Kai Mackall</title>
-    <link>https://mackau-io.github.io/categories/writeups/</link>
-    <description>Recent Posts in Writeups on Kai Mackall</description>
+    <title>Posts on Kai Mackall</title>
+    <link>https://mackau-io.github.io/posts/</link>
+    <description>Recent Posts in Posts on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Oct 2025 12:57:15 -0500</lastBuildDate>
-    <atom:link href="https://mackau-io.github.io/categories/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mackau-io.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First PC Build</title>
       <link>https://mackau-io.github.io/posts/pcbuild/</link>
