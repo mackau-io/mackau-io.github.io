@@ -3,25 +3,25 @@
     "nodes": [{
                 "id": "706b8b7e853fdf5fb3615fa7a1d3dd8c",
                 "title": "My First PC Build",
-                "permalink": "https://mackau-io.github.io/post/pcbuild/",
+                "permalink": "http://localhost:1313/post/pcbuild/",
                 "type": "post"
             },
                         {
                             "id": "categories-writeups",
                             "title": "Writeups",
-                            "permalink": "https://mackau-io.github.io/categories/writeups/",
+                            "permalink": "http://localhost:1313/categories/writeups/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
-                            "permalink": "https://mackau-io.github.io/tags/cybersecurity/",
+                            "permalink": "http://localhost:1313/tags/cybersecurity/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-homelab",
                             "title": "Homelab",
-                            "permalink": "https://mackau-io.github.io/tags/homelab/",
+                            "permalink": "http://localhost:1313/tags/homelab/",
                             "type": "tags"
                         },
     ],
