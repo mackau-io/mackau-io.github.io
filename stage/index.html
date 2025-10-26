@@ -21,11 +21,11 @@
     <!-- js.html -->
 
 <script src="https://kaimackall.com/js/hugo-brewm.min.js"
-            integrity="sha384-UOIF2/TObkZQb4Be1ePFNhuXUCjh&#43;aMYhKBN7Kg0ZprT6iWihnYVWC4fdfduURrp" crossorigin="anonymous"
+            integrity="sha384-HcfLGLdNQhK4GEH2Xg7S4mVZZbO80vZP//MO5hGHmLLsA4oAiwedtUkF5kIHTzMB" crossorigin="anonymous"
             defer></script><!-- css.html -->
 
 
-        <link rel="stylesheet" href="https://kaimackall.com/css/hugo-brewm.min.css" integrity="sha256-ri/IywdTLxB0YEyAG6OQPdjdQshcAc7funRFyGTpijw=" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://kaimackall.com/css/hugo-brewm.min.css" integrity="sha256-AZ09dhGp2/5vD7Sxn84rMIyF5KBl0/gvDOeMicOeN&#43;I=" crossorigin="anonymous">
 
 
 
@@ -175,9 +175,14 @@
 </header>
     
     <!-- [main] baseof.html -->
-    <main id="taxonomy">
+    <main id="section">
         <!-- main/header.html -->
         <header class="pagewidth">
+                    <menu class="srm">
+                                <a id="rss-button" href="https://kaimackall.com/stage/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
+                                    <span class="t srt" role="tooltip">Follow with RSS</span>
+                                </a>
+                    </menu>
                     <button id="back" class="hide" type="button" onclick="history.back();" aria-label="Go Back">
         <span class="t srt" role="tooltip">Go Back</span>
     </button>
@@ -201,26 +206,19 @@
             
         </div>
         
-        
-            <section class="pagewidth">
-                    <h1 id="stage">Stages</h1>
-                    <!-- taxonomies.html -->
-        <ul class="taxonomy" role="presentation">
-            
-                    <li >
-                        <a href="https://kaimackall.com/stage/budding/"class="section-title" 
-                            aria-label="Stage: budding"
-                            aria-description="1 Post"
-                            data-post-counter="1"
-                            >
-                            <span>budding</span>
-                        </a>
-                            <ul role="presentation">
-                                    <li><a href="https://kaimackall.com/posts/pcbuild/">My First PC Build</a></li>
-                            </ul>
-                    </li>
-        </ul>
-            </section>
+        <div class="pagewidth">
+            <div style="display:flex;height:var(--vbody);width:100%;">
+        <section class="hero" style="margin: auto; width: var(--canonic);" aria-labelledby="noArticle">
+            <picture class="hero__image">
+                <img src="https://i.pinimg.com/736x/bf/34/76/bf3476c1569c5af162779ecbb4134c3a.jpg" alt="cat is unsure on what to do with his laptop">
+            </picture>
+            <div class="hero__content">
+                <h1 id="noArticle" style="font-size:var(--large);font-weight:500;">No articles to show.</h1>
+                <p>It appears that our author ran out of coffee... Keep calm, we&#39;ll brew one shortly!</p>
+            </div>
+        </section>
+    </div>
+        </div>
         <!-- main/footer.html -->
     <hr class="hide">
     <footer id="main-footer"><div class="column column--multicols pagewidth" style="--multicols: 2"><div id="main-footer-primary">
@@ -235,6 +233,10 @@
             </div>
 	
 	    
+        	<p class="text-sm text-gray-500 mt-4">
+            	Page last edited on October 22, 2025 at 2:39 PM
+        	</p>
+    	
             <div id="unified-footer">
                     <!-- menu.html -->
     <nav id="menu-footer" class="has-aria-label-top" aria-label="Let&#39;s keep in touch!">
