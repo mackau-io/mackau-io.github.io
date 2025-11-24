@@ -1,42 +1,32 @@
 
 {
     "nodes": [{
-                "id": "b6a24c4ffe3b4df100e2c61f28a15b7c",
-                "title": "My First PC Build",
-                "permalink": "https://kaimackall.com/posts/pcbuild/",
+                "id": "d903c6c2d6f7a15fa094585cda4337cc",
+                "title": "Azure Outage",
+                "permalink": "http://localhost:1313/posts/azureoutage/",
                 "type": "post"
             },
                         {
-                            "id": "categories-writeups",
-                            "title": "Writeups",
-                            "permalink": "https://kaimackall.com/categories/writeups/",
+                            "id": "categories-news",
+                            "title": "News",
+                            "permalink": "http://localhost:1313/categories/news/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
-                            "permalink": "https://kaimackall.com/tags/cybersecurity/",
-                            "type": "tags"
-                        },
-                        {
-                            "id": "tags-homelab",
-                            "title": "Homelab",
-                            "permalink": "https://kaimackall.com/tags/homelab/",
+                            "permalink": "http://localhost:1313/tags/cybersecurity/",
                             "type": "tags"
                         },
     ],
     "links": [
             
                     {
-                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
-                        "target": "categories-writeups",
+                        "source": "d903c6c2d6f7a15fa094585cda4337cc",
+                        "target": "categories-news",
                     },
                     {
-                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
-                        "target": "tags-homelab",
-                    },
-                    {
-                        "source": "b6a24c4ffe3b4df100e2c61f28a15b7c",
+                        "source": "d903c6c2d6f7a15fa094585cda4337cc",
                         "target": "tags-cybersecurity",
                     },
     ],
