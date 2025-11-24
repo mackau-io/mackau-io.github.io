@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kai Mackall</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://kaimackall.com/categories/</link>
     <description>Recent Posts in Categories on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 16:49:37 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 16:52:32 -0600</lastBuildDate>
+    <atom:link href="https://kaimackall.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>http://localhost:1313/categories/news/</link>
+      <link>https://kaimackall.com/categories/news/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/news/</guid>
+      <guid>https://kaimackall.com/categories/news/</guid>
       <description></description>
       
     </item>

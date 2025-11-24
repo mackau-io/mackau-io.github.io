@@ -3,19 +3,19 @@
     "nodes": [{
                 "id": "d903c6c2d6f7a15fa094585cda4337cc",
                 "title": "Azure Outage",
-                "permalink": "http://localhost:1313/posts/azureoutage/",
+                "permalink": "https://kaimackall.com/posts/azureoutage/",
                 "type": "post"
             },
                         {
                             "id": "categories-news",
                             "title": "News",
-                            "permalink": "http://localhost:1313/categories/news/",
+                            "permalink": "https://kaimackall.com/categories/news/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
-                            "permalink": "http://localhost:1313/tags/cybersecurity/",
+                            "permalink": "https://kaimackall.com/tags/cybersecurity/",
                             "type": "tags"
                         },
     ],
