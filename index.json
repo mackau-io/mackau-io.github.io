@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                "title": "My PC Build and vHomelab: A 6 Month Retrospective",
+                "permalink": "https://kaimackall.com/posts/pcbuildhomelab/",
+                "type": "post"
+            },{
                 "id": "d903c6c2d6f7a15fa094585cda4337cc",
                 "title": "Azure Outage",
                 "permalink": "https://kaimackall.com/posts/azureoutage/",
@@ -13,13 +18,38 @@
                             "type": "categories"
                         },
                         {
+                            "id": "categories-writeups",
+                            "title": "Writeups",
+                            "permalink": "https://kaimackall.com/categories/writeups/",
+                            "type": "categories"
+                        },
+                        {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
                             "permalink": "https://kaimackall.com/tags/cybersecurity/",
                             "type": "tags"
                         },
+                        {
+                            "id": "tags-homelab",
+                            "title": "Homelab",
+                            "permalink": "https://kaimackall.com/tags/homelab/",
+                            "type": "tags"
+                        },
     ],
     "links": [
+            
+                    {
+                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "target": "tags-homelab",
+                    },
+                    {
+                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "target": "tags-cybersecurity",
+                    },
             
                     {
                         "source": "d903c6c2d6f7a15fa094585cda4337cc",
