@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Kai Mackall</title>
-    <link>http://localhost:1313/tags/tools/</link>
+    <link>https://kaimackall.com/tags/tools/</link>
     <description>Recent Posts in Tools on Kai Mackall</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2025 13:43:35 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 17:31:27 -0600</lastBuildDate>
+    <atom:link href="https://kaimackall.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Configuring Firewall Rules</title>
-      <link>http://localhost:1313/posts/tools1/</link>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tools1/</guid>
+      <title>Configuring Virtual Machines (VirtualBox)</title>
+      <link>https://kaimackall.com/posts/configuringvms/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://kaimackall.com/posts/configuringvms/</guid>
       <description></description>
       
     </item>

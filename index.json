@@ -1,22 +1,16 @@
 
 {
     "nodes": [{
+                "id": "0654d4b272de179fc372b37592cd3553",
+                "title": "Configuring Virtual Machines (VirtualBox)",
+                "permalink": "https://kaimackall.com/posts/configuringvms/",
+                "type": "post"
+            },{
                 "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
                 "title": "My PC Build and vHomelab: A 6 Month Retrospective",
                 "permalink": "https://kaimackall.com/posts/pcbuildhomelab/",
                 "type": "post"
-            },{
-                "id": "d903c6c2d6f7a15fa094585cda4337cc",
-                "title": "Azure Outage",
-                "permalink": "https://kaimackall.com/posts/azureoutage/",
-                "type": "post"
             },
-                        {
-                            "id": "categories-news",
-                            "title": "News",
-                            "permalink": "https://kaimackall.com/categories/news/",
-                            "type": "categories"
-                        },
                         {
                             "id": "categories-writeups",
                             "title": "Writeups",
@@ -35,8 +29,27 @@
                             "permalink": "https://kaimackall.com/tags/homelab/",
                             "type": "tags"
                         },
+                        {
+                            "id": "tags-tools",
+                            "title": "Tools",
+                            "permalink": "https://kaimackall.com/tags/tools/",
+                            "type": "tags"
+                        },
     ],
     "links": [
+            
+                    {
+                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "target": "categories-writeups",
+                    },
+                    {
+                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "target": "tags-tools",
+                    },
+                    {
+                        "source": "0654d4b272de179fc372b37592cd3553",
+                        "target": "tags-cybersecurity",
+                    },
             
                     {
                         "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
@@ -48,15 +61,6 @@
                     },
                     {
                         "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
-                        "target": "tags-cybersecurity",
-                    },
-            
-                    {
-                        "source": "d903c6c2d6f7a15fa094585cda4337cc",
-                        "target": "categories-news",
-                    },
-                    {
-                        "source": "d903c6c2d6f7a15fa094585cda4337cc",
                         "target": "tags-cybersecurity",
                     },
     ],

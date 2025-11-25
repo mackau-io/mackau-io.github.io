@@ -6,9 +6,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cybersecurity | Kai Mackall</title>
+<title>Configuring Virtual Machines (VirtualBox) | Kai Mackall</title>
 <meta name="author" content="">
-<link rel="canonical" href="https://kaimackall.com/tags/cybersecurity/">
+<meta name="keywords" content="Tools,Cybersecurity">
+<link rel="canonical" href="https://kaimackall.com/posts/configuringvms/">
 
 
         
@@ -17,8 +18,7 @@
         
         <meta name="apple-mobile-web-app-title" content="Kai Mackall" />
         
-<link rel="alternate" type="application/rss+xml" href="https://kaimackall.com/tags/cybersecurity/index.xml" title="Kai Mackall" />
-    <!-- js.html -->
+<!-- js.html -->
 
 <script src="https://kaimackall.com/js/hugo-brewm.min.js"
             integrity="sha384-HcfLGLdNQhK4GEH2Xg7S4mVZZbO80vZP//MO5hGHmLLsA4oAiwedtUkF5kIHTzMB" crossorigin="anonymous"
@@ -35,7 +35,7 @@
         body {max-width: 786px; margin: auto; padding: 2rem;}
         img {max-width: 86vw;}
     </style>
-    <!-- list.html [head] -->
+    
 </head>
 <body>
     <!-- header.html -->
@@ -45,7 +45,7 @@
     </div>
     
     <nav aria-label="Bypass">
-        <a id="to-content" href="#list-posts" aria-label="Skip to Main Content">
+        <a id="to-content" href="#content" aria-label="Skip to Main Content">
             <span>Skip to Main Content</span>
             <kbd class="key" aria-hidden="true">c</kbd>
             <span class="screening" aria-hidden="true"></span>
@@ -168,17 +168,22 @@
 </header>
     
     <!-- [main] baseof.html -->
-    <main id="term">
+    <main id="page"class="post"
+        >
         <!-- main/header.html -->
         <header class="pagewidth">
-                    <menu class="srm">
-                                <a id="rss-button" href="https://kaimackall.com/tags/cybersecurity/index.xml" title="Follow with RSS" role="button" aria-label="Follow with RSS">
-                                    <span class="t srt" role="tooltip">Follow with RSS</span>
-                                </a>
-                    </menu>
-                    <button id="back" class="hide" type="button" onclick="history.back();" aria-label="Go Back">
-        <span class="t srt" role="tooltip">Go Back</span>
+                    <menu class="srm"><button id="print-button" class="hide" onclick="window.print()" aria-label="Print">
+        <span class="t srt" role="tooltip">Print</span>
     </button>
+    <a id="navigatorShare" href="#share" role="button" aria-label="Share">
+        <span class="t srt" role="tooltip">Share</span>
+    </a>
+    <button id="copyPermalink" class="hide" onclick="navigator.clipboard.writeText(window.location.href)" aria-label="Copy URL">
+        <span id="copy" class="t srt" role="tooltip">Copy URL</span>
+        <span id="isCopying" style="display: none;">Copying...</span>
+        <span id="copyText" style="display: none;">Copy URL</span>
+    </button>
+                    </menu>
             <!-- nav.html -->
 <details class="presentation" aria-expanded="true" id="has-breadcrumb" open>
     <summary id="breadcrumb" tabindex="-1">
@@ -188,11 +193,11 @@
             <ul role="presentation" class="breadcrumb ">
                     <!-- breadcrumb.html -->
         <li>
-            <a href="https://kaimackall.com/tags/" aria-current="true">Tags
+            <a href="https://kaimackall.com/posts/" aria-current="true">Posts
             </a>
         </li>
     <li>
-        <a href="" aria-current="page" tabindex="-1">Cybersecurity
+        <a href="" aria-current="page" tabindex="-1">Configuring Virtual Machines (VirtualBox)
         </a>
     </li>
             </ul>
@@ -203,9 +208,47 @@
             
         </div>
         
-        
-
+    <article id="main-article" class="pagewidth rm"
+        role="document" aria-labelledby="title"
+            data-pagefind-body>
+        <header aria-labelledby="title">
             
+            <!-- title.html -->
+        <h1 id="title"
+                data-pagefind-meta="title"
+            data-bionRead-safe
+            >Configuring Virtual Machines (VirtualBox)</h1>
+            <div id="doc-author" class="textsw author">
+            </div>
+            <!-- timestamp.html-->
+    <div >
+        <time class="doc-publish-date" datetime="2025-11-25T00:00:00&#43;00:00" data-time-label="Published on">November 25, 2025</time>
+    </div>
+        </header>
+        <!-- audio.html -->
+        <section aria-labelledby="title" id="content" data-bionRead-safe>
+                
+        </section>
+            <footer>
+                
+    <nav id="keywords" aria-label="Tags">
+        <span>Tags:&nbsp;</span>
+        
+        <!-- terms.html -->
+    <ul class="delimiter" role="presentation">
+            <li><a href="/tags/tools/" >Tools</a></li>
+            <li><a href="/tags/cybersecurity/" >Cybersecurity</a></li>
+    </ul>
+    </nav>
+            </footer>
+    </article>
+    <hr class="hide" style="margin: 1in 0;">
+    <div id="contentinfo" class="pagewidth" role="contentinfo" data-pagefind-ignore="all">
+                <!-- history.html -->
+            
+    </div>
+    
+        
         <!-- main/footer.html -->
     <hr class="hide">
     <footer id="main-footer"><div class="column column--multicols pagewidth" style="--multicols: 2"><div id="main-footer-primary">
@@ -303,6 +346,8 @@
 </footer>
 
     
+    <!-- [post] single.html -->
+    <div id="bionReadSnapshot" hidden></div>
     <!-- [background] baseof.html -->
     <div id="background-body" role="presentation" aria-hidden="true"></div>
 </html>
