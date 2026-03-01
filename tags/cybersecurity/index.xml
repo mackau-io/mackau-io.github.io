@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersecurity on key-blogger | Home</title>
-    <link>https://kaimackall.com/tags/cybersecurity/</link>
+    <link>https://key-blogger.com/tags/cybersecurity/</link>
     <description>Recent Posts in Cybersecurity on key-blogger | Home</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 12:48:33 -0600</lastBuildDate>
-    <atom:link href="https://kaimackall.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2026 16:02:40 -0600</lastBuildDate>
+    <atom:link href="https://key-blogger.com/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuring Virtual Machines (VirtualBox)</title>
-      <link>https://kaimackall.com/posts/configuringvms/</link>
+      <link>https://key-blogger.com/posts/configuringvms/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://kaimackall.com/posts/configuringvms/</guid>
+      <guid>https://key-blogger.com/posts/configuringvms/</guid>
       <description></description>
       
     </item>
     <item>
       <title>My PC Build and vHomelab: A 6-Month Retrospective</title>
-      <link>https://kaimackall.com/posts/pcbuildhomelab/</link>
+      <link>https://key-blogger.com/posts/pcbuildhomelab/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://kaimackall.com/posts/pcbuildhomelab/</guid>
+      <guid>https://key-blogger.com/posts/pcbuildhomelab/</guid>
       <description></description>
       
     </item>

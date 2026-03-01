@@ -3,36 +3,36 @@
     "nodes": [{
                 "id": "0654d4b272de179fc372b37592cd3553",
                 "title": "Configuring Virtual Machines (VirtualBox)",
-                "permalink": "https://kaimackall.com/posts/configuringvms/",
+                "permalink": "https://key-blogger.com/posts/configuringvms/",
                 "type": "post"
             },{
                 "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
                 "title": "My PC Build and vHomelab: A 6-Month Retrospective",
-                "permalink": "https://kaimackall.com/posts/pcbuildhomelab/",
+                "permalink": "https://key-blogger.com/posts/pcbuildhomelab/",
                 "type": "post"
             },
                         {
                             "id": "categories-writeups",
                             "title": "Writeups",
-                            "permalink": "https://kaimackall.com/categories/writeups/",
+                            "permalink": "https://key-blogger.com/categories/writeups/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-cybersecurity",
                             "title": "Cybersecurity",
-                            "permalink": "https://kaimackall.com/tags/cybersecurity/",
+                            "permalink": "https://key-blogger.com/tags/cybersecurity/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-homelab",
                             "title": "Homelab",
-                            "permalink": "https://kaimackall.com/tags/homelab/",
+                            "permalink": "https://key-blogger.com/tags/homelab/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-tools",
                             "title": "Tools",
-                            "permalink": "https://kaimackall.com/tags/tools/",
+                            "permalink": "https://key-blogger.com/tags/tools/",
                             "type": "tags"
                         },
     ],
