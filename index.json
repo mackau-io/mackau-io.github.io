@@ -1,20 +1,15 @@
 
 {
     "nodes": [{
-                "id": "0654d4b272de179fc372b37592cd3553",
-                "title": "Configuring Virtual Machines (VirtualBox)",
-                "permalink": "https://key-blogger.com/posts/configuringvms/",
-                "type": "post"
-            },{
-                "id": "fefa085d47dbfd9bb1c5b445bfea0a1a",
-                "title": "My PC Build and vHomelab: A 6-Month Retrospective",
-                "permalink": "https://key-blogger.com/posts/pcbuildhomelab/",
+                "id": "d7db8754544dfd63ec7869a5ba7ce065",
+                "title": "Graduate Capstone Project",
+                "permalink": "https://key-blogger.com/posts/graduate-capstone/",
                 "type": "post"
             },
                         {
-                            "id": "categories-writeups",
-                            "title": "Writeups",
-                            "permalink": "https://key-blogger.com/categories/writeups/",
+                            "id": "categories-projects",
+                            "title": "Projects",
+                            "permalink": "https://key-blogger.com/categories/projects/",
                             "type": "categories"
                         },
                         {
@@ -23,44 +18,15 @@
                             "permalink": "https://key-blogger.com/tags/cybersecurity/",
                             "type": "tags"
                         },
-                        {
-                            "id": "tags-homelab",
-                            "title": "Homelab",
-                            "permalink": "https://key-blogger.com/tags/homelab/",
-                            "type": "tags"
-                        },
-                        {
-                            "id": "tags-tools",
-                            "title": "Tools",
-                            "permalink": "https://key-blogger.com/tags/tools/",
-                            "type": "tags"
-                        },
     ],
     "links": [
             
                     {
-                        "source": "0654d4b272de179fc372b37592cd3553",
-                        "target": "categories-writeups",
+                        "source": "d7db8754544dfd63ec7869a5ba7ce065",
+                        "target": "categories-projects",
                     },
                     {
-                        "source": "0654d4b272de179fc372b37592cd3553",
-                        "target": "tags-tools",
-                    },
-                    {
-                        "source": "0654d4b272de179fc372b37592cd3553",
-                        "target": "tags-cybersecurity",
-                    },
-            
-                    {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
-                        "target": "categories-writeups",
-                    },
-                    {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
-                        "target": "tags-homelab",
-                    },
-                    {
-                        "source": "fefa085d47dbfd9bb1c5b445bfea0a1a",
+                        "source": "d7db8754544dfd63ec7869a5ba7ce065",
                         "target": "tags-cybersecurity",
                     },
     ],
