@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homelab on key-blogger | Home</title>
-    <link>http://localhost:1313/tags/homelab/</link>
+    <link>https://key-blogger.com/tags/homelab/</link>
     <description>Recent Posts in Homelab on key-blogger | Home</description>
     <generator>Hugo 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 17:24:06 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Mar 2026 20:31:31 -0600</lastBuildDate>
+    <atom:link href="https://key-blogger.com/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My PC Build and vHomelab: A 6-Month Retrospective</title>
-      <link>http://localhost:1313/posts/pcbuildhomelab/</link>
+      <link>https://key-blogger.com/posts/pcbuildhomelab/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pcbuildhomelab/</guid>
+      <guid>https://key-blogger.com/posts/pcbuildhomelab/</guid>
       <description></description>
       
     </item>
